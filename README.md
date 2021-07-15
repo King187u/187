@@ -1,1 +1,3 @@
-# 187
+
+mkdir ~/bin
+PATH=~/bin:$PATH
